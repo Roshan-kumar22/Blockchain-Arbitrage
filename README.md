@@ -2,7 +2,7 @@
 
 ## Description
 
-The decentralized finance (DeFi) ecosystem offers numerous decentralized exchanges (DEXs) with varying liquidity and token prices. However, price discrepancies often exist between these platforms, creating arbitrage opportunities. Traditional arbitrage strategies require substantial capital, but they fall short in taking advantage of instant borrowing opportunities provided by flash loans.
+The decentralized exchanges (DEXs) with varying liquidity and token prices. However, price discrepancies often exist between these platforms, creating arbitrage opportunities. Traditional arbitrage strategies require substantial capital, but they fall short in taking advantage of instant borrowing opportunities provided by flash loans.
 
 ## Components
 
